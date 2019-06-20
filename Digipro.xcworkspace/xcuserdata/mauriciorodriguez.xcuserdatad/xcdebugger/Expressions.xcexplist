@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "InitialForm.registerButton(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Persistance.getPerson().personas.count">
+            </PersistentString>
+            <PersistentString
+               value = " Persistance.getPerson().personas.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Persistance.addPerson(person:):Persistance.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "person">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
